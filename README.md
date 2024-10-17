@@ -8,7 +8,7 @@ I also enjoy working with teams and believe that good communication is key to su
 
 - Programming Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
 - Frontend Development: React, Next.js, Material-UI, Tailwind CSS
-- Backend Development: Node.js, Express
+- Backend Development: Node.js, Express, NestJS
 - Mobile App Development: React Native, Expo
 - State Management: Redux, MobX, Context API
 - API Development & Integration: RESTful APIs, GraphQL
