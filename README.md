@@ -1,19 +1,19 @@
 ## About Me
 
-Vincent has 7+ years of experience in web & mobile app development. With expertise in React and React Native, he has a proven track record of delivering robust and feature-rich applications that meet client requirements. His proactive approach to problem-solving makes him a valuable asset in any dynamic environment.
+I’m a senior software developer with over 7 years of experience in web and mobile app development. I focus on building fast and reliable apps using React, React Native, and Node.js. My goal is to create high-quality solutions that meet client needs and improve user experiences.
 
-Vincent is also passionate about staying updated with the latest technologies and trends in software development and he's committed to delivering cutting-edge solutions that drive business growth.
+I also enjoy working with teams and believe that good communication is key to successful projects. When I'm not coding, I love exploring new technologies and staying updated with industry trends.
 
-## Skills
+## Key Skills
 
-- Languages: HTML5, CSS, JavaScript (ES6+), TypeScript
-- Front-End Development: React, React Native, Next.js
+- Programming Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
+- Frontend Development: React, Next.js, Material-UI, Tailwind CSS
+- Backend Development: Node.js, Express
+- Mobile App Development: React Native, Expo
 - State Management: Redux, MobX, Context API
-- UI Frameworks: Bootstrap, MUI, Tailwind CSS
-- Back-End Development: Node.js, ExpressJS, NestJS
-- Database: PostgreSQL, MongoDB, PostgreSQL, Redis
 - API Development & Integration: RESTful APIs, GraphQL
-- Cloud Services: AWS, GCP, Vercel, Firebase
-- DevOps: Docker, Kubernetes, CI/CD
-- Version Control: Git, GitHub, Bitbucket
-- Project Management: Jira, Trello, Asana, ClickUp
+- Database Management: MongoDB, PostgreSQL, MySQL, Redis
+- Cloud Services: AWS (Lambda, S3, EC2), Firebase, Supabase
+- DevOps Tools: Docker, Kubernetes, CI/CD
+- Testing Tools: Jest, Enzyme, Mocha, Chai, Cypress
+- Version Control: Git, GitHub, GitLab, BitBucket
