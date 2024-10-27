@@ -1,8 +1,6 @@
 ## About Me
 
-I’m a senior software developer with over 7 years of experience in web and mobile app development. I focus on building fast and reliable apps using React, React Native, and Node.js. My goal is to create high-quality solutions that meet client needs and improve user experiences.
-
-I also enjoy working with teams and believe that good communication is key to successful projects. When I'm not coding, I love exploring new technologies and staying updated with industry trends.
+I have over 10 years of experience in web and mobile app development and focus on building fast and reliable apps using React, React Native, and Node.js. My goal is to create high-quality solutions that meet client needs and improve user experiences. I also enjoy working with teams and believe that good communication is key to successful projects. When I'm not coding, I love exploring new technologies and staying updated with industry trends.
 
 ## Key Skills
 
